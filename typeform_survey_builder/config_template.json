@@ -1,0 +1,33 @@
+{
+  "title": "Customization Discovery — Intake Survey",
+
+  "workspace_name": "Custom Curriculum",
+  "workspace_href": "",
+  "create_workspace": false,
+
+  "theme_href": "https://api.typeform.com/themes/1eNl5J",
+  "account_id": "01D8JV3FRJBSKF0ZBM0XB0Z924",
+  "form_id": null,
+
+  "contact_fields": ["first_name", "last_name", "company", "email"],
+  "contact_prompt": "Before we begin, please tell us who you are.",
+
+  "instructions_title": "How to Approach This",
+  "instructions_text": "",
+
+  "all_required": true,
+  "keep_subsections": false,
+  "show_typeform_branding": false,
+  "autosave": true,
+
+  "welcome_description": "",
+  "welcome_button_text": "Start Survey",
+
+  "thankyou_title": "Thank you for investing the time.",
+  "thankyou_description": "We'll review your responses and any attached documents before our scheduled discovery session. During the session, we'll focus on clarifying, deepening, and exploring the areas that benefit most from live conversation — you won't need to repeat what you've already written.\n\nIf you have questions, reach out to your SuccessCOACHING contact.",
+  "thankyou_redirect_url": "https://successcoaching.co",
+  "thankyou_button_text": "Visit SuccessCOACHING",
+
+  "meta_title": "",
+  "meta_description": ""
+}
