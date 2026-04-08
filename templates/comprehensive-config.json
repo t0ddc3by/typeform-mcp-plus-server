@@ -1,0 +1,33 @@
+{
+  "title": "Customer Success Maturity Assessment",
+
+  "workspace_name": "",
+  "workspace_href": "https://api.typeform.com/workspaces/YOUR_WORKSPACE_ID",
+  "create_workspace": false,
+
+  "theme_href": "https://api.typeform.com/themes/YOUR_THEME_ID",
+  "account_id": "YOUR_ACCOUNT_ID",
+  "form_id": null,
+
+  "contact_fields": ["first_name", "last_name", "company", "email"],
+  "contact_prompt": "Before we begin, please tell us who you are.",
+
+  "instructions_title": "How to Approach This",
+  "instructions_text": "",
+
+  "all_required": true,
+  "keep_subsections": false,
+  "show_typeform_branding": false,
+  "autosave": true,
+
+  "welcome_description": "",
+  "welcome_button_text": "Start Assessment",
+
+  "thankyou_title": "Thank you for completing the assessment.",
+  "thankyou_description": "We'll review your responses and any attached documents before our next conversation.",
+  "thankyou_redirect_url": "https://example.com",
+  "thankyou_button_text": "Visit Our Site",
+
+  "meta_title": "",
+  "meta_description": ""
+}
